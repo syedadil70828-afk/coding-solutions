@@ -46,9 +46,9 @@ Output: [3,4,6,16,17]
 ## Solution
 
 **Language:** C  
-**Runtime:** 0 ms  
-**Memory:** 8.2 MB  
-**Submitted:** 2026-11-20T05:06:39.215Z  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 11.6 MB (beats 89.61%)  
+**Submitted:** 2026-11-20T05:06:43.805Z  
 
 ```c
 /**
